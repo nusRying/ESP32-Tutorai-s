@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

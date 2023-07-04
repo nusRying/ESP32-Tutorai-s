@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/CMakeFiles/bootloader
+E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/CMakeFiles/bootloader.rule
+E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/CMakeFiles/bootloader-complete.rule
+E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/Projects/Summer-2023-Embedded-Syaytems-Choosed/web_Server_Simple_Task/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
